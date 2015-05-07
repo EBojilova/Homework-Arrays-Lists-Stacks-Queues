@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe
+c:\users\elena\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.pdb
+c:\users\elena\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.exe
+c:\users\elena\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.pdb

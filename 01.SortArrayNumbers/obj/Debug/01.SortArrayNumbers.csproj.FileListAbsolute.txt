@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\01.SortArrayNumbers\bin\Debug\01.SortArrayNumbers.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\01.SortArrayNumbers\bin\Debug\01.SortArrayNumbers.exe
+c:\users\elena\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\01.SortArrayNumbers\bin\Debug\01.SortArrayNumbers.pdb
+c:\users\elena\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\01.SortArrayNumbers\obj\Debug\01.SortArrayNumbers.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\01.SortArrayNumbers\obj\Debug\01.SortArrayNumbers.exe
+c:\users\elena\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\01.SortArrayNumbers\obj\Debug\01.SortArrayNumbers.pdb

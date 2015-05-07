@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\07.SortedSubSetSums\bin\Debug\07.SortedSubSetSums.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\07.SortedSubSetSums\obj\Debug\07.SortedSubSetSums.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\07.SortedSubSetSums\obj\Debug\07.SortedSubSetSums.pdb

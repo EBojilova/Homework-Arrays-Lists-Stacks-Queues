@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\02.SortArrayNumsSelection\bin\Debug\02.SortArrayNumsSelection.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\02.SortArrayNumsSelection\bin\Debug\02.SortArrayNumsSelection.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\02.SortArrayNumsSelection\bin\Debug\02.SortArrayNumsSelection.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\02.SortArrayNumsSelection\obj\Debug\02.SortArrayNumsSelection.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\02.SortArrayNumsSelection\obj\Debug\02.SortArrayNumsSelection.pdb

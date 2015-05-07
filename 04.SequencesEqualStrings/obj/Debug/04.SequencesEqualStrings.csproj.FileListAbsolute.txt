@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\04.SequencesEqualStrings\bin\Debug\04.SequencesEqualStrings.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\04.SequencesEqualStrings\bin\Debug\04.SequencesEqualStrings.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\04.SequencesEqualStrings\bin\Debug\04.SequencesEqualStrings.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\04.SequencesEqualStrings\obj\Debug\04.SequencesEqualStrings.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\04.SequencesEqualStrings\obj\Debug\04.SequencesEqualStrings.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\04.SequencesEqualStrings\obj\Debug\04.SequencesEqualStrings.pdb

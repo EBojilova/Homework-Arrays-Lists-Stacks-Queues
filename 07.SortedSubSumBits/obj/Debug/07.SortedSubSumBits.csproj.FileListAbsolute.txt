@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\07.SortedSubSumBits\bin\Debug\07.SortedSubSumBits.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\07.SortedSubSumBits\bin\Debug\07.SortedSubSumBits.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\07.SortedSubSumBits\bin\Debug\07.SortedSubSumBits.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\07.SortedSubSumBits\obj\Debug\07.SortedSubSumBits.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\07.SortedSubSumBits\obj\Debug\07.SortedSubSumBits.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\07.SortedSubSumBits\obj\Debug\07.SortedSubSumBits.pdb
